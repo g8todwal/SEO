@@ -1,0 +1,64 @@
+Hello again,
+now that we know how to gather and analyze content on our competitor's site,
+in this lesson, we'll take a look at how
+to analyze social signals. Social sites, such as Facebook,
+Twitter, LinkedIn and Google+, all contain important data
+that can be central to our success. We'll also look at some easily accessible
+online tools that will help us unlock and analyze this data. Next, I filled in the social media data. I used a tool called ShareMetric,
+which is a free Chrome extension. There's a lot of different and
+similar tools out there to choose from. Basically, whenever you are looking at
+a page, you can click on the ShareMetric icon for detail on social shares, and it
+will break all of this data out for you. While analyzing this,
+I can immediately see a few things. Chegg's audience is very
+active on social channels. I bet if we created content with
+the right calls to action for comments, shares, or
+another type of social interaction, we would be able to get a lot
+of traction out of that. I also see that people use Google+ to
+plus one content pretty frequently, this is good to know. A plus one button would be really
+important to include within the content. Pinterest is the least popular,
+but to be honest, none of these pages have very
+pin worthy graphics either. Given how active this audience
+is on other social networks and the fact that there are still some pins,
+I bet if the client emphasized pinnable images within their content ,they could
+increase engagement and shares here. LinkedIn seems to be the most
+popular with career related posts. This makes a lot of sense. So if the client were
+to create any of these, sharing to LinkedIn would
+be really valuable. It might be worthwhile to add a specific
+call to action on these posts that mentions sharing with
+their audience on LinkedIn. Perhaps even some content that
+might appeal to college students, such as using LinkedIn to find a job or best ways to optimize your LinkedIn
+profile as a recent graduate. Another thing I like to do is add up all
+of the columns, so I can get a good idea of what type of social sharing and
+content is the most popular. The vertical axis shows the type of
+social sharing people use the most, while the horizontal shows which pages
+get the most social shares and links. So we can see that Facebook likes and
+comments outweigh anything else. So having a strong Facebook
+presence is a good idea. Google plus ones outweigh Facebook shares,
+and Twitter is the next most
+popular sharing platform. We can also see that the most shared
+page is scholarship matching, followed by homework help, which is
+unfortunately a paid for resource. We can probably create some free
+homework related resources to increase social sharing on our site. You want to make sure you're not copying
+your competitor's content strategies but using this to come up with
+your own original ideas that take advantage of
+the insights you have gained. Let's use something like
+homework help as an example. We know off the bat that we can create
+an area that helps students with their homework. But this is a really time
+intensive solution to develop. However, having a section of our blog dedicated to homework help might be
+a step in the right direction and would be a great resource that
+we can build up over time. From our analysis of our first competitor,
+we have gained the following insights about both our target audience and
+our competition. We know that our target audience
+are big social sharers, so it's a great idea to include
+calls to action to share and also take advantage of social
+media to spread content. We can add some topics like homework
+help and career related posts. This will increase interaction and
+engagement. We have also learned that our competition
+has some good SEO in place, but are also making some mistakes,
+such as having duplicate pages and hosting great content on subdomains. The next step is to
+complete this process for each of your main competitors and
+note your findings as you go. Following the steps laid out in this
+lesson, you should now be able to analyze your competition to determine
+what types of content they are producing, and identify areas of opportunity for
+your site. That completes the video
+portion of this lesson.
